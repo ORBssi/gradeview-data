@@ -7,12 +7,12 @@
     "default": [],
     "new": [
       {
-        "last": "000",
-        "first": "000",
-        "username": "000",
-        "password": "000",
+        "last": "ooo",
+        "first": "ooo",
+        "username": "ooo",
+        "password": "ooo",
         "grades": [
-          69
+          1000
         ]
       }
     ]
