@@ -1,5 +1,38 @@
 {
-  "students": [],
-  "subjects": [],
-  "sections": ["default"]
+  "sections": [
+    "default"
+  ],
+  "students": {
+    "default": []
+  },
+  "subjects": {
+    "default": []
+  },
+  "studentCards": [
+    {
+      "firstName": "ooo",
+      "middleName": "o",
+      "lastName": "ooo",
+      "username": "ooo",
+      "password": "ooo",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "",
+          "q1": "99",
+          "q2": "99",
+          "q3": "99",
+          "q4": "99"
+        },
+        {
+          "subject": "",
+          "q1": "99",
+          "q2": "100",
+          "q3": "99",
+          "q4": "98"
+        }
+      ],
+      "type": "card"
+    }
+  ]
 }
