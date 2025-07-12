@@ -13,19 +13,26 @@
   },
   "studentCards": [
     {
-      "firstName": "000",
-      "middleName": "0",
-      "lastName": "000",
-      "username": "000",
-      "password": "000",
+      "firstName": "999",
+      "middleName": "999",
+      "lastName": "999",
+      "username": "999",
+      "password": "999",
       "year": "N/A",
       "subjects": [
         {
           "subject": "",
-          "q1": "999",
-          "q2": "9",
-          "q3": "999",
-          "q4": "999"
+          "q1": "99",
+          "q2": "99",
+          "q3": "99",
+          "q4": "100"
+        },
+        {
+          "subject": "",
+          "q1": "99",
+          "q2": "99",
+          "q3": "100",
+          "q4": "98"
         }
       ],
       "type": "card"
