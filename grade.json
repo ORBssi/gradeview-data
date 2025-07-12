@@ -10,9 +10,9 @@
   },
   "studentCards": [
     {
-      "firstName": "ooo",
+      "firstName": "oooo",
       "middleName": "o",
-      "lastName": "ooo",
+      "lastName": "0oo",
       "username": "ooo",
       "password": "ooo",
       "year": "N/A",
@@ -23,13 +23,6 @@
           "q2": "99",
           "q3": "99",
           "q4": "99"
-        },
-        {
-          "subject": "",
-          "q1": "99",
-          "q2": "100",
-          "q3": "99",
-          "q4": "98"
         }
       ],
       "type": "card"
