@@ -1,31 +1,47 @@
 {
   "sections": [
-    "default"
+    "default",
+    "new"
   ],
   "students": {
-    "default": []
+    "default": [
+      {
+        "last": "",
+        "first": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          0
+        ]
+      }
+    ],
+    "new": [
+      {
+        "last": "00",
+        "first": "00",
+        "username": "00",
+        "password": "00",
+        "grades": [
+          99
+        ]
+      },
+      {
+        "last": "00",
+        "first": "00",
+        "username": "00",
+        "password": "00",
+        "grades": [
+          33
+        ]
+      }
+    ]
   },
   "subjects": {
-    "default": []
-  },
-  "studentCards": [
-    {
-      "firstName": "oooo",
-      "middleName": "o",
-      "lastName": "0oo",
-      "username": "ooo",
-      "password": "ooo",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "",
-          "q1": "99",
-          "q2": "99",
-          "q3": "99",
-          "q4": "99"
-        }
-      ],
-      "type": "card"
-    }
-  ]
+    "default": [
+      "math"
+    ],
+    "new": [
+      "eng"
+    ]
+  }
 }
