@@ -5,11 +5,23 @@
   ],
   "students": {
     "default": [],
-    "new": []
+    "new": [
+      {
+        "last": "ooo",
+        "first": "ooo",
+        "username": "ooo",
+        "password": "ooo",
+        "grades": [
+          1000
+        ]
+      }
+    ]
   },
   "subjects": {
     "default": [],
-    "new": []
+    "new": [
+      "math"
+    ]
   },
   "studentCards": [
     {
@@ -67,19 +79,19 @@
       "type": "card"
     },
     {
-      "firstName": "Clarence",
-      "middleName": "D.",
-      "lastName": "Landicho",
-      "username": "rence",
+      "firstName": "Leian",
+      "middleName": "O",
+      "lastName": "Olarte",
+      "username": "Leian",
       "password": "1234",
       "year": "N/A",
       "subjects": [
         {
           "subject": "",
-          "q1": "1",
-          "q2": "1",
-          "q3": "1",
-          "q4": "1"
+          "q1": "99",
+          "q2": "99",
+          "q3": "99",
+          "q4": "99"
         }
       ],
       "type": "card"
