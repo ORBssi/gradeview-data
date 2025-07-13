@@ -10,5 +10,11 @@
     "avatar": "default-avatar.png",
     "content": "gg",
     "timestamp": "2025-07-13T09:05:31.177Z"
+  },
+  {
+    "sender": "Admin",
+    "avatar": "admin-avatar.png",
+    "content": "ss",
+    "timestamp": "2025-07-13T09:26:04.206Z"
   }
 ]
