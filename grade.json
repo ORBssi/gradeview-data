@@ -65,6 +65,24 @@
         }
       ],
       "type": "card"
+    },
+    {
+      "firstName": "Clarence",
+      "middleName": "D.",
+      "lastName": "Landicho",
+      "username": "rence",
+      "password": "1234",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1"
+        }
+      ],
+      "type": "card"
     }
   ]
 }
