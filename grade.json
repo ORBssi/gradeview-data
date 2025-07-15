@@ -35,5 +35,25 @@
       "okokokookokokookkokkkokokkokkokokokkkokokkokokokokokokokokkokokokokokokkokkkkokokokkokkkokokkokokkokokokokokokokokokokokokokookokokokokokookookokokokokokokokokokokkokokokookokokokokokokokokokokokokokokokokokokok",
       "lololololollololololooolloolollllollllollollollololooolololololollollollolooololololooollollolololoolololloloolololololololololloollololololloololololololoololoololoololooololololololololololololololololololololoolololololollooolololol"
     ]
-  }
+  },
+  "studentCards": [
+    {
+      "firstName": "000",
+      "middleName": "0",
+      "lastName": "000",
+      "username": "000",
+      "password": "000",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "",
+          "q1": "99",
+          "q2": "99",
+          "q3": "99",
+          "q4": "99"
+        }
+      ],
+      "type": "card"
+    }
+  ]
 }
