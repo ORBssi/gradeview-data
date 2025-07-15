@@ -1,100 +1,35 @@
 {
   "sections": [
-    "default",
-    "new"
+    "default"
   ],
   "students": {
-    "default": [],
-    "new": [
+    "default": [
       {
         "last": "ooo",
-        "first": "ooo",
+        "first": "ppp",
         "username": "ooo",
         "password": "ooo",
         "grades": [
-          1000
+          99,
+          98,
+          98,
+          97,
+          99,
+          99,
+          97
         ]
       }
     ]
   },
   "subjects": {
-    "default": [],
-    "new": [
-      "math"
+    "default": [
+      "math",
+      "science",
+      "fil",
+      "eng",
+      "philosophy",
+      "acad",
+      "bio"
     ]
-  },
-  "studentCards": [
-    {
-      "firstName": "kkk",
-      "middleName": "kkk",
-      "lastName": "kkk",
-      "username": "kkk",
-      "password": "kkk",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "",
-          "q1": "99",
-          "q2": "99",
-          "q3": "99",
-          "q4": "99"
-        }
-      ],
-      "type": "card"
-    },
-    {
-      "firstName": "iii",
-      "middleName": "i",
-      "lastName": "iii",
-      "username": "iii",
-      "password": "iii",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "",
-          "q1": "66",
-          "q2": "99",
-          "q3": "77",
-          "q4": "88"
-        }
-      ],
-      "type": "card"
-    },
-    {
-      "firstName": "ooo",
-      "middleName": "o",
-      "lastName": "ooo",
-      "username": "ooo",
-      "password": "ooo",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "",
-          "q1": "99",
-          "q2": "99",
-          "q3": "99",
-          "q4": "99"
-        }
-      ],
-      "type": "card"
-    },
-    {
-      "firstName": "Leian",
-      "middleName": "O",
-      "lastName": "Olarte",
-      "username": "Leian",
-      "password": "1234",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "",
-          "q1": "99",
-          "q2": "99",
-          "q3": "99",
-          "q4": "99"
-        }
-      ],
-      "type": "card"
-    }
-  ]
+  }
 }
