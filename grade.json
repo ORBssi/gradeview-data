@@ -1,103 +1,56 @@
 {
   "sections": [
-    "default",
-    "new"
+    "default"
   ],
   "students": {
-    "default": [],
-    "new": []
+    "default": [
+      {
+        "last": "ooo",
+        "first": "ppp",
+        "username": "ooo",
+        "password": "ooo",
+        "grades": [
+          99,
+          98,
+          98,
+          97,
+          99,
+          99,
+          97,
+          100,
+          99
+        ]
+      }
+    ]
   },
   "subjects": {
-    "default": [],
-    "new": []
+    "default": [
+      "math",
+      "science",
+      "fil",
+      "eng",
+      "philosophy",
+      "acad",
+      "bio",
+      "okokokookokokookkokkkokokkokkokokokkkokokkokokokokokokokokkokokokokokokkokkkkokokokkokkkokokkokokkokokokokokokokokokokokokokookokokokokokookookokokokokokokokokokokkokokokookokokokokokokokokokokokokokokokokokokok",
+      "lololololollololololooolloolollllollllollollollololooolololololollollollolooololololooollollolololoolololloloolololololololololloollololololloololololololoololoololoololooololololololololololololololololololololoolololololollooolololol"
+    ]
   },
   "studentCards": [
     {
-      "firstName": "kkk",
-      "middleName": "kkk",
-      "lastName": "kkk",
-      "username": "kkk",
-      "password": "kkk",
+      "firstName": "000",
+      "middleName": "0",
+      "lastName": "000",
+      "username": "000",
+      "password": "000",
       "year": "N/A",
       "subjects": [
         {
-          "subject": "",
+          "subject": "math",
           "q1": "99",
           "q2": "99",
           "q3": "99",
           "q4": "99"
-        }
-      ],
-      "type": "card"
-    },
-    {
-      "firstName": "iii",
-      "middleName": "i",
-      "lastName": "iii",
-      "username": "iii",
-      "password": "iii",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "",
-          "q1": "66",
-          "q2": "99",
-          "q3": "77",
-          "q4": "88"
-        }
-      ],
-      "type": "card"
-    },
-    {
-      "firstName": "ooo",
-      "middleName": "o",
-      "lastName": "ooo",
-      "username": "ooo",
-      "password": "ooo",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "",
-          "q1": "99",
-          "q2": "99",
-          "q3": "99",
-          "q4": "99"
-        }
-      ],
-      "type": "card"
-    },
-    {
-      "firstName": "Leian",
-      "middleName": "O",
-      "lastName": "Olarte",
-      "username": "Leian",
-      "password": "1234",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "",
-          "q1": "99",
-          "q2": "99",
-          "q3": "99",
-          "q4": "99"
-        }
-      ],
-      "type": "card"
-    },
-    {
-      "firstName": "Manaloto",
-      "middleName": "",
-      "lastName": "Pepito",
-      "username": "Pepito",
-      "password": "123456",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "",
-          "q1": "75",
-          "q2": "",
-          "q3": "",
-          "q4": ""
         }
       ],
       "type": "card"
