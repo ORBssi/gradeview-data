@@ -1,56 +1,146 @@
 {
   "sections": [
-    "default"
+    "default",
+    "new"
   ],
   "students": {
-    "default": [
+    "default": [],
+    "new": [
       {
-        "last": "ooo",
-        "first": "ppp",
-        "username": "ooo",
-        "password": "ooo",
+        "last": "000",
+        "first": "000",
+        "username": "000",
+        "password": "000",
         "grades": [
-          99,
-          98,
-          98,
-          97,
-          99,
-          99,
-          97,
-          100,
-          99
+          69
         ]
       }
     ]
   },
   "subjects": {
-    "default": [
-      "math",
-      "science",
-      "fil",
-      "eng",
-      "philosophy",
-      "acad",
-      "bio",
-      "okokokookokokookkokkkokokkokkokokokkkokokkokokokokokokokokkokokokokokokkokkkkokokokkokkkokokkokokkokokokokokokokokokokokokokookokokokokokookookokokokokokokokokokokkokokokookokokokokokokokokokokokokokokokokokokok",
-      "lololololollololololooolloolollllollllollollollololooolololololollollollolooololololooollollolololoolololloloolololololololololloollololololloololololololoololoololoololooololololololololololololololololololololoolololololollooolololol"
+    "default": [],
+    "new": [
+      "math"
     ]
   },
   "studentCards": [
     {
-      "firstName": "000",
-      "middleName": "0",
-      "lastName": "000",
-      "username": "000",
-      "password": "000",
+      "firstName": "kkk",
+      "middleName": "kkk",
+      "lastName": "kkk",
+      "username": "kkk",
+      "password": "kkk",
       "year": "N/A",
       "subjects": [
         {
-          "subject": "math",
+          "subject": "",
           "q1": "99",
           "q2": "99",
           "q3": "99",
           "q4": "99"
+        }
+      ],
+      "type": "card"
+    },
+    {
+      "firstName": "iii",
+      "middleName": "i",
+      "lastName": "iii",
+      "username": "iii",
+      "password": "iii",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "",
+          "q1": "66",
+          "q2": "99",
+          "q3": "77",
+          "q4": "88"
+        }
+      ],
+      "type": "card"
+    },
+    {
+      "firstName": "ooo",
+      "middleName": "o",
+      "lastName": "ooo",
+      "username": "ooo",
+      "password": "ooo",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "",
+          "q1": "99",
+          "q2": "99",
+          "q3": "99",
+          "q4": "99"
+        }
+      ],
+      "type": "card"
+    },
+    {
+      "firstName": "manaloto",
+      "middleName": "",
+      "lastName": "pepito",
+      "username": "pepito",
+      "password": "1234",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "science",
+          "q1": "75",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "English",
+          "q1": "75",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "ap",
+          "q1": "90",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "tle",
+          "q1": "76",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "filipino",
+          "q1": "99",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "math",
+          "q1": "85",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "ict",
+          "q1": "80",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "esp",
+          "q1": "75",
+          "q2": "",
+          "q3": "",
+          "q4": ""
         }
       ],
       "type": "card"
