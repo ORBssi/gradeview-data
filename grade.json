@@ -144,6 +144,38 @@
         }
       ],
       "type": "card"
+    },
+    {
+      "firstName": "john Carlo",
+      "middleName": "destajo",
+      "lastName": "laude",
+      "username": "ginataanginaka",
+      "password": "12345",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "test1",
+          "q1": "75",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "test2",
+          "q1": "76",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "test3",
+          "q1": "78",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        }
+      ],
+      "type": "card"
     }
   ]
 }
