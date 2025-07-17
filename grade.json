@@ -33,5 +33,43 @@
       "math",
       "eng"
     ]
-  }
+  },
+  "studentCards": [
+    {
+      "firstName": "ooo",
+      "middleName": "ooo",
+      "lastName": "ooo",
+      "username": "ooo",
+      "password": "ooo",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "99",
+          "q1": "99",
+          "q2": "99",
+          "q3": "99",
+          "q4": "999"
+        }
+      ],
+      "type": "card"
+    },
+    {
+      "firstName": "000",
+      "middleName": "000",
+      "lastName": "000",
+      "username": "000",
+      "password": "000",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "000",
+          "q1": "89",
+          "q2": "88",
+          "q3": "88",
+          "q4": "88"
+        }
+      ],
+      "type": "card"
+    }
+  ]
 }
