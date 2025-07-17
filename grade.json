@@ -3,29 +3,21 @@
     "default"
   ],
   "students": {
-    "default": []
+    "default": [
+      {
+        "last": "rrr",
+        "first": "rrr",
+        "username": "rrr",
+        "password": "rrr",
+        "grades": [
+          99
+        ]
+      }
+    ]
   },
   "subjects": {
-    "default": []
-  },
-  "studentCards": [
-    {
-      "firstName": "ooo",
-      "middleName": "ooo",
-      "lastName": "ooo",
-      "username": "ooo",
-      "password": "ooo",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "99",
-          "q1": "99",
-          "q2": "99",
-          "q3": "99",
-          "q4": "999"
-        }
-      ],
-      "type": "card"
-    }
-  ]
+    "default": [
+      "math"
+    ]
+  }
 }
