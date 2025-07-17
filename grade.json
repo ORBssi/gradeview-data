@@ -11,7 +11,8 @@
         "username": "rrr",
         "password": "rrr",
         "grades": [
-          99
+          99,
+          98
         ]
       },
       {
@@ -21,14 +22,16 @@
         "username": "jjj",
         "password": "jjj",
         "grades": [
-          99
+          99,
+          98
         ]
       }
     ]
   },
   "subjects": {
     "default": [
-      "math"
+      "math",
+      "eng"
     ]
   }
 }
