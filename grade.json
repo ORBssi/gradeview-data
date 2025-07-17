@@ -11,7 +11,7 @@
         "username": "rrr",
         "password": "rrr",
         "grades": [
-          0
+          99
         ]
       },
       {
@@ -21,7 +21,7 @@
         "username": "jjj",
         "password": "jjj",
         "grades": [
-          0
+          99
         ]
       }
     ]
