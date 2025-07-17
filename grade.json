@@ -7,20 +7,20 @@
       {
         "last": "rrr",
         "first": "rrr",
+        "middle": "I",
         "username": "I",
         "password": "rrr",
         "grades": [
-          0,
           0
         ]
       },
       {
         "last": "jjj",
         "first": "jjj",
+        "middle": "I",
         "username": "I",
         "password": "jjj",
         "grades": [
-          0,
           0
         ]
       }
