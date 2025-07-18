@@ -1,75 +1,84 @@
 {
   "sections": [
-    "default"
+    "default",
+    "new"
   ],
   "students": {
-    "default": [
+    "default": [],
+    "new": [
       {
-        "last": "rrr",
-        "first": "rrr",
-        "middle": "I",
-        "username": "rrr",
-        "password": "rrr",
+        "last": "000",
+        "first": "000",
+        "middle": "0",
+        "username": "000",
+        "password": "000",
         "grades": [
-          99,
-          98
+          69,
+          90
         ]
       },
       {
-        "last": "jjj",
-        "first": "jjj",
-        "middle": "I",
-        "username": "jjj",
-        "password": "jjj",
+        "last": "",
+        "first": "",
+        "middle": "",
+        "username": "",
+        "password": "",
         "grades": [
-          99,
-          98
+          0,
+          0
+        ]
+      },
+      {
+        "last": "",
+        "first": "",
+        "middle": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          0,
+          0
+        ]
+      },
+      {
+        "last": "",
+        "first": "",
+        "middle": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          0,
+          0
+        ]
+      },
+      {
+        "last": "",
+        "first": "",
+        "middle": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          0,
+          0
+        ]
+      },
+      {
+        "last": "",
+        "first": "",
+        "middle": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          0,
+          0
         ]
       }
     ]
   },
   "subjects": {
-    "default": [
+    "default": [],
+    "new": [
       "math",
       "eng"
     ]
-  },
-  "studentCards": [
-    {
-      "firstName": "ooo",
-      "middleName": "ooo",
-      "lastName": "ooo",
-      "username": "ooo",
-      "password": "ooo",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "99",
-          "q1": "99",
-          "q2": "99",
-          "q3": "99",
-          "q4": "99"
-        }
-      ],
-      "type": "card"
-    },
-    {
-      "firstName": "000",
-      "middleName": "000",
-      "lastName": "000",
-      "username": "000",
-      "password": "000",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "000",
-          "q1": "99",
-          "q2": "99",
-          "q3": "100",
-          "q4": "88"
-        }
-      ],
-      "type": "card"
-    }
-  ]
+  }
 }
