@@ -3,9 +3,65 @@
     "default"
   ],
   "students": {
-    "default": []
+    "default": [
+      {
+        "last": "lll",
+        "first": "lll",
+        "middle": "l",
+        "username": "lll",
+        "password": "lll",
+        "grades": [
+          99,
+          98,
+          99,
+          99,
+          100,
+          98,
+          97,
+          100,
+          98,
+          98,
+          99,
+          99
+        ]
+      },
+      {
+        "last": "kkk",
+        "first": "kkk",
+        "middle": "k",
+        "username": "kkk",
+        "password": "kkk",
+        "grades": [
+          77,
+          99,
+          88,
+          66,
+          77,
+          66,
+          99,
+          88,
+          77,
+          66,
+          77,
+          67
+        ]
+      }
+    ]
   },
   "subjects": {
-    "default": []
+    "default": [
+      "math",
+      "eng",
+      "math",
+      "eng",
+      "fil",
+      "sc",
+      "cc",
+      "gg",
+      "yy",
+      "jj",
+      "cl",
+      "dd"
+    ]
   }
 }
