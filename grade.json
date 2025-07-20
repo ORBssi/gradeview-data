@@ -165,9 +165,9 @@
       "type": "card"
     },
     {
-      "firstName": "oooo",
+      "firstName": "ooo",
       "middleName": "o",
-      "lastName": "oooo",
+      "lastName": "ooo",
       "username": "ooo",
       "password": "ooo",
       "year": "N/A",
@@ -182,15 +182,15 @@
         {
           "subject": "eng",
           "q1": "88",
-          "q2": "88",
+          "q2": "77",
           "q3": "66",
-          "q4": "94"
+          "q4": "55"
         },
         {
           "subject": "fil",
-          "q1": "77",
-          "q2": "66",
-          "q3": "55",
+          "q1": "96",
+          "q2": "80",
+          "q3": "70",
           "q4": "0"
         }
       ],
