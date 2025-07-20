@@ -63,5 +63,124 @@
       "cl",
       "dd"
     ]
-  }
+  },
+  "studentCards": [
+    {
+      "firstName": "manaloto",
+      "middleName": "",
+      "lastName": "pepito",
+      "username": "pepito",
+      "password": "1234",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "science",
+          "q1": "75",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "English",
+          "q1": "75",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "ap",
+          "q1": "90",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "tle",
+          "q1": "76",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "filipino",
+          "q1": "99",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "math",
+          "q1": "85",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "ict",
+          "q1": "80",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "esp",
+          "q1": "75",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        }
+      ],
+      "type": "card"
+    },
+    {
+      "firstName": "john Carlo",
+      "middleName": "destajo",
+      "lastName": "laude",
+      "username": "ginataanginaka",
+      "password": "12345",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "test1",
+          "q1": "75",
+          "q2": "75",
+          "q3": "75",
+          "q4": "75"
+        },
+        {
+          "subject": "test2",
+          "q1": "76",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "test3",
+          "q1": "78",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        }
+      ],
+      "type": "card"
+    },
+    {
+      "firstName": "oooo",
+      "middleName": "o",
+      "lastName": "oooo",
+      "username": "ooo",
+      "password": "ooo",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "dd",
+          "q1": "99",
+          "q2": "99",
+          "q3": "99",
+          "q4": "99"
+        }
+      ],
+      "type": "card"
+    }
+  ]
 }
