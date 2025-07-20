@@ -1,11 +1,45 @@
 {
   "sections": [
-    "default"
+    "default",
+    "open"
   ],
   "students": {
-    "default": []
+    "default": [],
+    "open": [
+      {
+        "last": "ooo",
+        "first": "ooo",
+        "middle": "o",
+        "username": "ooo",
+        "password": "ooo",
+        "grades": [
+          99,
+          97,
+          94,
+          91,
+          97,
+          89,
+          85,
+          82,
+          77,
+          77
+        ]
+      }
+    ]
   },
   "subjects": {
-    "default": []
+    "default": [],
+    "open": [
+      "math",
+      "eng",
+      "fil",
+      "bascal",
+      "precal",
+      "pe",
+      "arts",
+      "music",
+      "bio",
+      "chem"
+    ]
   }
 }
