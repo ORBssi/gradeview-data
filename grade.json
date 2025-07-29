@@ -3,10 +3,45 @@
     "default"
   ],
   "students": {
-    "default": []
+    "default": [
+      {
+        "last": "Olarte",
+        "first": "Leain",
+        "middle": "O.",
+        "username": "ooo",
+        "password": "ooo",
+        "grades": [
+          100,
+          44,
+          89,
+          77,
+          66,
+          55,
+          96,
+          98,
+          85,
+          80,
+          92,
+          82
+        ]
+      }
+    ]
   },
   "subjects": {
-    "default": []
+    "default": [
+      "science",
+      "philosophy",
+      "MATH",
+      "ENGLISH",
+      "FILIPINO",
+      "PE",
+      "ICT",
+      "TLE",
+      "ARTS",
+      "MUSIC",
+      "CHEM",
+      "BIO"
+    ]
   },
   "studentCards": [
     {
@@ -114,6 +149,24 @@
       "lastName": "ooo",
       "username": "ooo",
       "password": "ooo",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "math",
+          "q1": "22",
+          "q2": "44",
+          "q3": "44",
+          "q4": "55"
+        }
+      ],
+      "type": "card"
+    },
+    {
+      "firstName": "ooo",
+      "middleName": "o",
+      "lastName": "ooo",
+      "username": "000",
+      "password": "000",
       "year": "N/A",
       "subjects": [
         {
