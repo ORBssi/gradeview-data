@@ -3,10 +3,47 @@
     "default"
   ],
   "students": {
-    "default": []
+    "default": [
+      {
+        "last": "Olarte",
+        "first": "Leain",
+        "middle": "O.",
+        "username": "ooo",
+        "password": "ooo",
+        "grades": [
+          100,
+          44,
+          89,
+          77,
+          66,
+          55,
+          96,
+          98,
+          85,
+          80,
+          92,
+          82,
+          0
+        ]
+      }
+    ]
   },
   "subjects": {
-    "default": []
+    "default": [
+      "science",
+      "philosophy",
+      "MATH",
+      "ENGLISH",
+      "FILIPINO",
+      "PE",
+      "ICT",
+      "TLE",
+      "ARTS",
+      "MUSIC",
+      "CHEM",
+      "BIO",
+      "ff"
+    ]
   },
   "studentCards": [
     {
@@ -118,28 +155,56 @@
       "subjects": [
         {
           "subject": "math",
-          "q1": "22",
-          "q2": "44",
-          "q3": "44",
+          "q1": "99",
+          "q2": "99",
+          "q3": "99",
+          "q4": "99"
+        },
+        {
+          "subject": "eng",
+          "q1": "88",
+          "q2": "77",
+          "q3": "66",
           "q4": "55"
+        },
+        {
+          "subject": "fil",
+          "q1": "96",
+          "q2": "80",
+          "q3": "70",
+          "q4": "0"
         }
       ],
       "type": "card"
     },
     {
-      "firstName": "000",
-      "middleName": "0",
-      "lastName": "000",
+      "firstName": "ooo",
+      "middleName": "o",
+      "lastName": "ooo",
       "username": "000",
       "password": "000",
       "year": "N/A",
       "subjects": [
         {
           "subject": "math",
-          "q1": "22",
-          "q2": "44",
-          "q3": "44",
+          "q1": "99",
+          "q2": "99",
+          "q3": "99",
+          "q4": "99"
+        },
+        {
+          "subject": "eng",
+          "q1": "88",
+          "q2": "77",
+          "q3": "66",
           "q4": "55"
+        },
+        {
+          "subject": "fil",
+          "q1": "96",
+          "q2": "80",
+          "q3": "70",
+          "q4": "0"
         }
       ],
       "type": "card"
