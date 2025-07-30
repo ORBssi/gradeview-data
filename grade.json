@@ -144,19 +144,19 @@
       "type": "card"
     },
     {
-      "firstName": "lll",
-      "middleName": "l",
-      "lastName": "llll",
+      "firstName": "leian",
+      "middleName": "",
+      "lastName": "olarte",
       "username": "lll",
       "password": "lll",
       "year": "N/A",
       "subjects": [
         {
-          "subject": "kkk",
+          "subject": "eng",
           "q1": "99",
-          "q2": "88",
-          "q3": "77",
-          "q4": "66"
+          "q2": "98",
+          "q3": "97",
+          "q4": "97"
         }
       ],
       "type": "card"
