@@ -143,23 +143,4 @@
       ],
       "type": "card"
     },
-    {
-      "firstName": "leian",
-      "middleName": "",
-      "lastName": "olarte",
-      "username": "lll",
-      "password": "lll",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "eng",
-          "q1": "99",
-          "q2": "98",
-          "q3": "97",
-          "q4": "97"
-        }
-      ],
-      "type": "card"
-    }
-  ]
-}
+    
