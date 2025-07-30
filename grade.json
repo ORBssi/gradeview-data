@@ -3,65 +3,9 @@
     "default"
   ],
   "students": {
-    "default": [
-      {
-        "last": "Olarte",
-        "first": "Leain",
-        "middle": "O.",
-        "username": "ooo",
-        "password": "ooo",
-        "grades": [
-          100,
-          44,
-          89,
-          77,
-          66,
-          55,
-          96,
-          98,
-          85,
-          80,
-          92,
-          82
-        ]
-      },
-      {
-        "last": "Mac",
-        "first": "Do",
-        "middle": "M.",
-        "username": "mmm",
-        "password": "mmm",
-        "grades": [
-          88,
-          77,
-          88,
-          77,
-          88,
-          77,
-          88,
-          77,
-          88,
-          77,
-          88,
-          77
-        ]
-      }
-    ]
+    "default": []
   },
   "subjects": {
-    "default": [
-      "science",
-      "philosophy",
-      "MATH",
-      "ENGLISH",
-      "FILIPINO",
-      "PE",
-      "ICT",
-      "TLE",
-      "ARTS",
-      "MUSIC",
-      "CHEM",
-      "BIO"
-    ]
+    "default": []
   }
 }
