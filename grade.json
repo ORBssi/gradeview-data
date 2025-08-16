@@ -3,36 +3,36 @@
     "default"
   ],
   "students": {
-    "default": []
+    "default": [
+      {
+        "last": "Olarte",
+        "first": "Lean",
+        "middle": "O.",
+        "username": "kkk",
+        "password": "kkk",
+        "grades": [
+          99,
+          98,
+          77,
+          55,
+          44,
+          33,
+          66,
+          100
+        ]
+      }
+    ]
   },
   "subjects": {
-    "default": []
-  },
-  "studentCards": [
-    {
-      "firstName": "sad",
-      "middleName": "O.",
-      "lastName": "joy",
-      "username": "joy123",
-      "password": "1234",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "math",
-          "q1": "88",
-          "q2": "89",
-          "q3": "98",
-          "q4": "99"
-        },
-        {
-          "subject": "eng",
-          "q1": "77",
-          "q2": "66",
-          "q3": "88",
-          "q4": "99"
-        }
-      ],
-      "type": "card"
-    }
-  ]
+    "default": [
+      "math",
+      "eng",
+      "ict",
+      "pe",
+      "fil",
+      "cpar",
+      "physics",
+      "chem"
+    ]
+  }
 }
