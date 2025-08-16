@@ -5,34 +5,20 @@
   "students": {
     "default": [
       {
-        "last": "Olarte",
-        "first": "Lean",
-        "middle": "O.",
-        "username": "kkk",
-        "password": "kkk",
+        "last": "Jollibee",
+        "first": "BidaBida",
+        "middle": "M.",
+        "username": "jjj",
+        "password": "jjj",
         "grades": [
-          99,
-          98,
-          77,
-          55,
-          44,
-          99,
-          66,
-          100
+          99
         ]
       }
     ]
   },
   "subjects": {
     "default": [
-      "math",
-      "eng",
-      "ict",
-      "pe",
-      "fil",
-      "cpar",
-      "physics",
-      "chem"
+      "math"
     ]
   }
 }
