@@ -5,20 +5,14 @@
   "students": {
     "default": [
       {
-        "last": "leian",
-        "first": "olarte",
-        "middle": "o",
-        "username": "kkk",
-        "password": "kkk",
+        "last": "Jollibee",
+        "first": "BidaBida",
+        "middle": "M.",
+        "username": "jjj",
+        "password": "jjj",
         "grades": [
-          0,
-          99,
-          99,
-          88,
-          0,
-          0,
-          0,
-          0
+          33,
+          66
         ]
       }
     ]
@@ -26,58 +20,7 @@
   "subjects": {
     "default": [
       "math",
-      "eng",
-      "ict",
-      "pe",
-      "fil",
-      "cpar",
-      "physics",
-      "chem"
+      "fil"
     ]
-  },
-  "studentCards": [
-    {
-      "firstName": "sad",
-      "middleName": "O.",
-      "lastName": "joy",
-      "username": "joy123",
-      "password": "1234",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "math",
-          "q1": "88",
-          "q2": "89",
-          "q3": "98",
-          "q4": "99"
-        },
-        {
-          "subject": "eng",
-          "q1": "77",
-          "q2": "66",
-          "q3": "88",
-          "q4": "99"
-        }
-      ],
-      "type": "card"
-    },
-    {
-      "firstName": "dd",
-      "middleName": "dd",
-      "lastName": "dd",
-      "username": "dd",
-      "password": "dd",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "math",
-          "q1": "",
-          "q2": "",
-          "q3": "",
-          "q4": ""
-        }
-      ],
-      "type": "card"
-    }
-  ]
+  }
 }
