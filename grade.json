@@ -34,50 +34,5 @@
       "physics",
       "chem"
     ]
-  },
-  "studentCards": [
-    {
-      "firstName": "sad",
-      "middleName": "O.",
-      "lastName": "joy",
-      "username": "joy123",
-      "password": "1234",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "math",
-          "q1": "88",
-          "q2": "89",
-          "q3": "98",
-          "q4": "99"
-        },
-        {
-          "subject": "eng",
-          "q1": "77",
-          "q2": "66",
-          "q3": "88",
-          "q4": "99"
-        }
-      ],
-      "type": "card"
-    },
-    {
-      "firstName": "dd",
-      "middleName": "dd",
-      "lastName": "dd",
-      "username": "dd",
-      "password": "dd",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "math",
-          "q1": "66",
-          "q2": "66",
-          "q3": "",
-          "q4": ""
-        }
-      ],
-      "type": "card"
-    }
-  ]
+  }
 }
