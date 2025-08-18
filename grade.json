@@ -1,38 +1,5 @@
 {
-  "sections": [
-    "default"
-  ],
-  "students": {
-    "default": [
-      {
-        "last": "leian",
-        "first": "olarte",
-        "middle": "o",
-        "username": "kkk",
-        "password": "kkk",
-        "grades": [
-          99,
-          99,
-          99,
-          88,
-          99,
-          77,
-          0,
-          55
-        ]
-      }
-    ]
-  },
-  "subjects": {
-    "default": [
-      "math",
-      "eng",
-      "ict",
-      "pe",
-      "fil",
-      "cpar",
-      "physics",
-      "chem"
-    ]
-  }
+  "sections": [],
+  "students": {},
+  "subjects": {}
 }
