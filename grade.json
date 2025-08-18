@@ -1,5 +1,24 @@
 {
-  "sections": [],
-  "students": {},
-  "subjects": {}
+  "sections": [
+    "default"
+  ],
+  "students": {
+    "default": [
+      {
+        "last": "hhh",
+        "first": "hhh",
+        "middle": "hhh",
+        "username": "hhh",
+        "password": "hhh",
+        "grades": [
+          99
+        ]
+      }
+    ]
+  },
+  "subjects": {
+    "default": [
+      "math]"
+    ]
+  }
 }
