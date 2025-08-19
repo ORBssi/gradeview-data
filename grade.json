@@ -5,74 +5,80 @@
   "students": {
     "default": [
       {
-        "first": "kiko",
-        "middle": "",
-        "last": "kiko",
+        "first": "99",
+        "middle": "99",
+        "last": "joker jk",
         "username": "",
         "password": "",
         "grades": [
-          99,
-          99,
+          55,
+          88,
+          0,
           55
         ]
       },
       {
-        "first": "lola",
-        "middle": "",
-        "last": "lola",
+        "first": "999",
+        "middle": "55",
+        "last": "liza. ard",
         "username": "",
         "password": "",
         "grades": [
           99,
-          55,
-          99
+          88,
+          0,
+          66
         ]
       },
       {
-        "first": "miya",
-        "middle": "",
-        "last": "miya",
+        "first": "9",
+        "middle": "66",
+        "last": "miya balmond",
         "username": "",
         "password": "",
         "grades": [
-          9,
+          44,
+          99,
           66,
-          44
+          66
         ]
       },
       {
-        "first": "almond",
-        "middle": "",
+        "first": "9",
+        "middle": "77",
         "last": "almond",
         "username": "",
         "password": "",
         "grades": [
-          9,
-          77,
-          33
-        ]
-      },
-      {
-        "first": "sia",
-        "middle": "",
-        "last": "sia",
-        "username": "",
-        "password": "",
-        "grades": [
+          33,
+          88,
           0,
-          55,
-          44
+          77
         ]
       },
       {
-        "first": "peter",
-        "middle": "",
-        "last": "peter",
+        "first": "",
+        "middle": "55",
+        "last": "sia the greatest",
+        "username": "",
+        "password": "",
+        "grades": [
+          44,
+          88,
+          66,
+          88
+        ]
+      },
+      {
+        "first": "99",
+        "middle": "99",
+        "last": "peter parker",
         "username": "",
         "password": "",
         "grades": [
           99,
-          99,
+          77,
+          66,
           99
         ]
       }
@@ -80,8 +86,10 @@
   },
   "subjects": {
     "default": [
-      "grades",
-      "invalid"
+      "philosophy",
+      "science",
+      "fpl",
+      "calculus"
     ]
   }
 }
