@@ -5,81 +5,129 @@
   "students": {
     "default": [
       {
-        "first": "99",
-        "middle": "99",
-        "last": "joker jk",
-        "username": "bb",
-        "password": "bbb",
+        "first": "De Santos",
+        "middle": "B.",
+        "last": "Balmond",
+        "username": "1",
+        "password": "1",
         "grades": [
           55,
           88,
-          66,
-          55
+          99,
+          55,
+          99,
+          99,
+          0,
+          87,
+          99
         ]
       },
       {
-        "first": "99",
-        "middle": "55",
-        "last": "liza. ard",
-        "username": "bb",
-        "password": "bb",
+        "first": "Rex",
+        "middle": "T.",
+        "last": "Lizard",
+        "username": "2",
+        "password": "2",
         "grades": [
           99,
           88,
-          55,
-          66
+          99,
+          66,
+          89,
+          88,
+          99,
+          87,
+          99
         ]
       },
       {
-        "first": "9",
-        "middle": "66",
-        "last": "miya balmond",
-        "username": "fit",
-        "password": "ff",
+        "first": "Moon",
+        "middle": "M.",
+        "last": "Miya",
+        "username": "3",
+        "password": "3",
         "grades": [
           44,
           99,
           66,
-          66
+          66,
+          98,
+          88,
+          99,
+          87,
+          98
         ]
       },
       {
-        "first": "9",
-        "middle": "77",
-        "last": "almond",
-        "username": "fftt",
-        "password": "ff",
+        "first": "Choco",
+        "middle": "L.",
+        "last": "Almond",
+        "username": "4",
+        "password": "4",
         "grades": [
           33,
           88,
-          44,
-          77
+          88,
+          77,
+          98,
+          77,
+          99,
+          87,
+          98
         ]
       },
       {
-        "first": "rr",
-        "middle": "",
-        "last": "sia the greatest",
-        "username": "fff",
-        "password": "fff",
+        "first": "Ham",
+        "middle": "N.",
+        "last": "Cheese",
+        "username": "5",
+        "password": "5",
         "grades": [
           44,
           88,
           66,
-          88
+          88,
+          97,
+          77,
+          88,
+          65,
+          98
         ]
       },
       {
-        "first": "99",
-        "middle": "99",
-        "last": "peter parker",
-        "username": "fffc",
-        "password": "ff",
+        "first": "Peter",
+        "middle": "",
+        "last": "Parker",
+        "username": "6",
+        "password": "6",
         "grades": [
           99,
-          77,
+          99,
           66,
+          99,
+          98,
+          99,
+          99,
+          99,
           99
+        ]
+      },
+      {
+        "first": "Luffy",
+        "middle": "D.",
+        "last": "Monkey",
+        "username": "7",
+        "password": "7",
+        "grades": [
+          0,
+          0,
+          0,
+          0,
+          100,
+          1,
+          0,
+          0,
+          88
         ]
       }
     ]
@@ -89,7 +137,12 @@
       "philosophy",
       "science",
       "fpl",
-      "calculus"
+      "calculus",
+      "eating",
+      "Gen math",
+      "Gen bio",
+      "Chemistry",
+      "Pe"
     ]
   }
 }
