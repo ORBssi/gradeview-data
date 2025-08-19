@@ -5,12 +5,74 @@
   "students": {
     "default": [
       {
-        "last": "hhh",
-        "first": "hhh",
-        "middle": "hhh",
-        "username": "hhh",
-        "password": "hhh",
+        "last": "kiko",
+        "first": "kiko",
+        "middle": "",
+        "username": "",
+        "password": "",
         "grades": [
+          99,
+          99,
+          55
+        ]
+      },
+      {
+        "last": "lola",
+        "first": "lola",
+        "middle": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          99,
+          55,
+          99
+        ]
+      },
+      {
+        "last": "miya",
+        "first": "miya",
+        "middle": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          9,
+          66,
+          44
+        ]
+      },
+      {
+        "last": "almond",
+        "first": "almond",
+        "middle": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          9,
+          77,
+          33
+        ]
+      },
+      {
+        "last": "sia",
+        "first": "sia",
+        "middle": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          0,
+          55,
+          44
+        ]
+      },
+      {
+        "last": "peter",
+        "first": "peter",
+        "middle": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          99,
+          99,
           99
         ]
       }
@@ -18,7 +80,8 @@
   },
   "subjects": {
     "default": [
-      "math]"
+      "grades",
+      "invalid"
     ]
   }
 }
