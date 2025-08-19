@@ -1,9 +1,11 @@
 {
   "sections": [
-    "default"
+    "default",
+    "CSV Upload 1"
   ],
   "students": {
-    "default": [
+    "default": [],
+    "CSV Upload 1": [
       {
         "first": "De Santos",
         "middle": "B.",
@@ -17,7 +19,7 @@
           55,
           99,
           99,
-          0,
+          7,
           87,
           99
         ]
@@ -31,7 +33,7 @@
         "grades": [
           99,
           88,
-          99,
+          7,
           66,
           89,
           88,
@@ -72,7 +74,7 @@
           98,
           77,
           99,
-          87,
+          88,
           98
         ]
       },
@@ -123,7 +125,7 @@
           0,
           0,
           0,
-          100,
+          99,
           1,
           0,
           0,
@@ -133,7 +135,8 @@
     ]
   },
   "subjects": {
-    "default": [
+    "default": [],
+    "CSV Upload 1": [
       "philosophy",
       "science",
       "fpl",
