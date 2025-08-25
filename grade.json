@@ -5,22 +5,35 @@
   "students": {
     "default": [
       {
-        "last": "l",
-        "first": "o",
-        "middle": "l",
-        "username": "o",
-        "password": "o",
+        "last": "jj",
+        "first": "jj",
+        "middle": "",
+        "username": "",
+        "password": "",
         "grades": [
+          0,
           0
         ]
       },
       {
-        "last": "l",
-        "first": "l",
-        "middle": "o",
-        "username": "l",
-        "password": "l",
+        "last": "",
+        "first": "",
+        "middle": "",
+        "username": "",
+        "password": "",
         "grades": [
+          0,
+          0
+        ]
+      },
+      {
+        "last": "",
+        "first": "",
+        "middle": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          0,
           0
         ]
       }
@@ -28,7 +41,8 @@
   },
   "subjects": {
     "default": [
-      "kkk"
+      "kkk",
+      "kk"
     ]
   }
 }
