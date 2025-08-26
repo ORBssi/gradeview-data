@@ -1,11 +1,13 @@
 {
   "sections": [
     "default",
-    "CSV Upload 1"
+    "CSV Upload 1",
+    "CSV Upload 2"
   ],
   "students": {
     "default": [],
-    "CSV Upload 1": [
+    "CSV Upload 1": [],
+    "CSV Upload 2": [
       {
         "first": "De Santos",
         "middle": "B.",
@@ -125,7 +127,7 @@
           0,
           0,
           0,
-          99,
+          100,
           1,
           0,
           0,
@@ -136,7 +138,8 @@
   },
   "subjects": {
     "default": [],
-    "CSV Upload 1": [
+    "CSV Upload 1": [],
+    "CSV Upload 2": [
       "philosophy",
       "science",
       "fpl",
