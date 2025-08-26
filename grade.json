@@ -3,24 +3,7 @@
     "default"
   ],
   "students": {
-    "default": [
-      {
-        "last": "",
-        "first": "kk",
-        "middle": "",
-        "username": "",
-        "password": "",
-        "grades": []
-      },
-      {
-        "last": "",
-        "first": "",
-        "middle": "",
-        "username": "jj",
-        "password": "",
-        "grades": []
-      }
-    ]
+    "default": []
   },
   "subjects": {
     "default": []
