@@ -5,19 +5,19 @@
   "students": {
     "default": [
       {
-        "last": "",
-        "first": "",
-        "middle": "",
-        "username": "8",
-        "password": "8",
+        "last": "f",
+        "first": "f",
+        "middle": "fe",
+        "username": "f",
+        "password": "f",
         "grades": [
           0
         ]
       },
       {
-        "last": "",
-        "first": "",
-        "middle": "",
+        "last": "fe",
+        "first": "ef",
+        "middle": "e",
         "username": "8",
         "password": "8",
         "grades": [
