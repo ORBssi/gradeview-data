@@ -3,7 +3,8 @@
     "default",
     "CSV Upload 1",
     "CSV Upload 2",
-    "CSV Upload 3"
+    "CSV Upload 3",
+    "CSV Upload 4"
   ],
   "students": {
     "default": [],
@@ -263,6 +264,134 @@
           88
         ]
       }
+    ],
+    "CSV Upload 4": [
+      {
+        "first": "De Santos",
+        "middle": "B.",
+        "last": "Balmond",
+        "username": "1",
+        "password": "1",
+        "grades": [
+          99,
+          55,
+          99,
+          87,
+          55,
+          0,
+          99,
+          99,
+          88
+        ]
+      },
+      {
+        "first": "Rex",
+        "middle": "T.",
+        "last": "Lizard",
+        "username": "2",
+        "password": "2",
+        "grades": [
+          89,
+          99,
+          0,
+          87,
+          66,
+          99,
+          99,
+          88,
+          88
+        ]
+      },
+      {
+        "first": "Moon",
+        "middle": "M.",
+        "last": "Miya",
+        "username": "3",
+        "password": "3",
+        "grades": [
+          98,
+          44,
+          66,
+          87,
+          66,
+          99,
+          98,
+          88,
+          99
+        ]
+      },
+      {
+        "first": "Choco",
+        "middle": "L.",
+        "last": "Almond",
+        "username": "4",
+        "password": "4",
+        "grades": [
+          98,
+          33,
+          88,
+          0,
+          77,
+          99,
+          98,
+          77,
+          88
+        ]
+      },
+      {
+        "first": "Ham",
+        "middle": "N.",
+        "last": "Cheese",
+        "username": "5",
+        "password": "5",
+        "grades": [
+          97,
+          44,
+          66,
+          65,
+          88,
+          0,
+          98,
+          77,
+          88
+        ]
+      },
+      {
+        "first": "Peter",
+        "middle": "",
+        "last": "Parker",
+        "username": "6",
+        "password": "6",
+        "grades": [
+          98,
+          99,
+          66,
+          99,
+          99,
+          99,
+          99,
+          99,
+          99
+        ]
+      },
+      {
+        "first": "Luffy",
+        "middle": "D.",
+        "last": "Monkey",
+        "username": "7",
+        "password": "7",
+        "grades": [
+          99,
+          0,
+          0,
+          0,
+          0,
+          0,
+          88,
+          1,
+          0
+        ]
+      }
     ]
   },
   "subjects": {
@@ -289,6 +418,17 @@
       "Gen bio",
       "Chemistry",
       "Pe"
+    ],
+    "CSV Upload 4": [
+      "eating",
+      "philosophy",
+      "fpl",
+      "Chemistry",
+      "calculus",
+      "Gen bio",
+      "Pe",
+      "Gen math",
+      "science"
     ]
   }
 }
