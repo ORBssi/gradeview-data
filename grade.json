@@ -11,9 +11,9 @@
     "CSV Upload 1": [],
     "CSV Upload 2": [
       {
+        "last": "Miya",
         "first": "Moon",
         "middle": "M.",
-        "last": "Miya",
         "username": "3",
         "password": "3",
         "grades": [
@@ -29,9 +29,9 @@
         ]
       },
       {
+        "last": "Lizard",
         "first": "Rex",
         "middle": "T.",
-        "last": "Lizard",
         "username": "2",
         "password": "2",
         "grades": [
@@ -47,9 +47,9 @@
         ]
       },
       {
+        "last": "Balmond",
         "first": "De Santos",
         "middle": "B.",
-        "last": "Balmond",
         "username": "1",
         "password": "1",
         "grades": [
@@ -65,9 +65,9 @@
         ]
       },
       {
+        "last": "Almond",
         "first": "Choco",
         "middle": "L.",
-        "last": "Almond",
         "username": "4",
         "password": "4",
         "grades": [
@@ -83,9 +83,9 @@
         ]
       },
       {
+        "last": "Cheese",
         "first": "Ham",
         "middle": "N.",
-        "last": "Cheese",
         "username": "5",
         "password": "5",
         "grades": [
@@ -101,9 +101,9 @@
         ]
       },
       {
+        "last": "Parker",
         "first": "Peter",
         "middle": "",
-        "last": "Parker",
         "username": "6",
         "password": "6",
         "grades": [
@@ -119,9 +119,9 @@
         ]
       },
       {
+        "last": "Monkey",
         "first": "Luffy",
         "middle": "D.",
-        "last": "Monkey",
         "username": "7",
         "password": "7",
         "grades": [
