@@ -11,6 +11,24 @@
     "CSV Upload 1": [],
     "CSV Upload 2": [
       {
+        "last": "Balmond",
+        "first": "De Santos",
+        "middle": "B.",
+        "username": "1",
+        "password": "1",
+        "grades": [
+          55,
+          88,
+          99,
+          55,
+          99,
+          99,
+          0,
+          87,
+          99
+        ]
+      },
+      {
         "last": "Miya",
         "first": "Moon",
         "middle": "M.",
@@ -32,8 +50,8 @@
         "last": "Lizard",
         "first": "Rex",
         "middle": "T.",
-        "username": "2",
-        "password": "2",
+        "username": "3",
+        "password": "3",
         "grades": [
           99,
           88,
@@ -42,24 +60,6 @@
           89,
           88,
           99,
-          87,
-          99
-        ]
-      },
-      {
-        "last": "Balmond",
-        "first": "De Santos",
-        "middle": "B.",
-        "username": "1",
-        "password": "1",
-        "grades": [
-          55,
-          88,
-          99,
-          55,
-          99,
-          99,
-          0,
           87,
           99
         ]
