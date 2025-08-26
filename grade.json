@@ -5,30 +5,24 @@
   "students": {
     "default": [
       {
-        "last": "f",
-        "first": "f",
-        "middle": "fe",
-        "username": "f",
-        "password": "f",
-        "grades": [
-          0
-        ]
+        "last": "",
+        "first": "kk",
+        "middle": "",
+        "username": "",
+        "password": "",
+        "grades": []
       },
       {
-        "last": "fe",
-        "first": "ef",
-        "middle": "e",
-        "username": "8",
-        "password": "8",
-        "grades": [
-          0
-        ]
+        "last": "",
+        "first": "",
+        "middle": "",
+        "username": "jj",
+        "password": "",
+        "grades": []
       }
     ]
   },
   "subjects": {
-    "default": [
-      "mth"
-    ]
+    "default": []
   }
 }
