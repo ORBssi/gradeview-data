@@ -6,29 +6,71 @@
   "students": {
     "default": [
       {
-        "last": "",
-        "first": "",
+        "fname": "Delta",
+        "lname": "",
+        "mname": "",
         "username": "",
         "password": "",
         "grades": [
-          0
+          "48.8"
         ]
       },
       {
-        "last": "",
-        "first": "",
+        "fname": "Epsilon",
+        "lname": "",
+        "mname": "",
         "username": "",
         "password": "",
         "grades": [
-          0
+          "77.07"
+        ]
+      },
+      {
+        "fname": "Eta",
+        "lname": "",
+        "mname": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          "74.8"
+        ]
+      },
+      {
+        "fname": "Gamma",
+        "lname": "",
+        "mname": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          "61.53"
+        ]
+      },
+      {
+        "fname": "Nu",
+        "lname": "",
+        "mname": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          "77.63"
+        ]
+      },
+      {
+        "fname": "Zeta",
+        "lname": "",
+        "mname": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          "79.37"
         ]
       }
     ],
     "CSV Upload 1": [
       {
-        "first": "De Santos",
-        "middle": "B.",
-        "last": "Balmond",
+        "last": "Kagenou",
+        "first": "Cid",
+        "middle": "",
         "username": "1",
         "password": "1",
         "grades": [
@@ -44,9 +86,9 @@
         ]
       },
       {
+        "last": "Dino",
         "first": "Rex",
         "middle": "T.",
-        "last": "Lizard",
         "username": "2",
         "password": "2",
         "grades": [
@@ -55,16 +97,16 @@
           0,
           66,
           89,
-          88,
+          100,
           99,
           87,
           99
         ]
       },
       {
+        "last": "Miya",
         "first": "Moon",
         "middle": "M.",
-        "last": "Miya",
         "username": "3",
         "password": "3",
         "grades": [
@@ -80,9 +122,9 @@
         ]
       },
       {
+        "last": "Almond",
         "first": "Choco",
         "middle": "L.",
-        "last": "Almond",
         "username": "4",
         "password": "4",
         "grades": [
@@ -98,9 +140,9 @@
         ]
       },
       {
+        "last": "Cheese",
         "first": "Ham",
         "middle": "N.",
-        "last": "Cheese",
         "username": "5",
         "password": "5",
         "grades": [
@@ -116,14 +158,14 @@
         ]
       },
       {
+        "last": "Parker",
         "first": "Peter",
         "middle": "",
-        "last": "Parker",
         "username": "6",
         "password": "6",
         "grades": [
           99,
-          99,
+          100,
           66,
           99,
           98,
@@ -134,9 +176,9 @@
         ]
       },
       {
+        "last": "Monkey",
         "first": "Luffy",
         "middle": "D.",
-        "last": "Monkey",
         "username": "7",
         "password": "7",
         "grades": [
@@ -150,17 +192,35 @@
           0,
           88
         ]
+      },
+      {
+        "last": "Kagenou",
+        "first": "Claire",
+        "middle": "",
+        "username": "8",
+        "password": "8",
+        "grades": [
+          80,
+          60,
+          30,
+          40,
+          80,
+          40,
+          30,
+          30,
+          100
+        ]
       }
     ]
   },
   "subjects": {
     "default": [
-      "math"
+      "Astronomy"
     ],
     "CSV Upload 1": [
       "philosophy",
       "science",
-      "fpl",
+      "FPL",
       "calculus",
       "eating",
       "Gen math",
