@@ -1,1 +1,14 @@
-
+{
+  "sections": [
+    "default",
+    "Gamma"
+  ],
+  "students": {
+    "default": [],
+    "Gamma": []
+  },
+  "subjects": {
+    "default": [],
+    "Gamma": []
+  }
+}
