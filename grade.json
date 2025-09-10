@@ -165,5 +165,25 @@
       "Chemistry",
       "Pe"
     ]
-  }
+  },
+  "studentCards": [
+    {
+      "firstName": "Lean",
+      "middleName": "O.",
+      "lastName": "Olarte",
+      "username": "len123",
+      "password": "1234",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "math",
+          "q1": "99",
+          "q2": "98",
+          "q3": "98",
+          "q4": "99"
+        }
+      ],
+      "type": "card"
+    }
+  ]
 }
