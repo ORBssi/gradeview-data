@@ -10,5 +10,43 @@
   "subjects": {
     "default": [],
     "Gamma": []
-  }
+  },
+  "studentCards": [
+    {
+      "firstName": "kk",
+      "middleName": "k",
+      "lastName": "kk",
+      "username": "k",
+      "password": "k",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "kkk",
+          "q1": "98",
+          "q2": "99",
+          "q3": "99",
+          "q4": "99"
+        }
+      ],
+      "type": "card"
+    },
+    {
+      "firstName": "o",
+      "middleName": "o",
+      "lastName": "o",
+      "username": "o",
+      "password": "o",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "o",
+          "q1": "99",
+          "q2": "99",
+          "q3": "99",
+          "q4": "99"
+        }
+      ],
+      "type": "card"
+    }
+  ]
 }
