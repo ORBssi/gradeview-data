@@ -1,7 +1,8 @@
 {
   "sections": [
     "default",
-    "mm"
+    "mm",
+    "Cartesian"
   ],
   "students": {
     "default": [],
@@ -150,6 +151,44 @@
           100
         ]
       }
+    ],
+    "Cartesian": [
+      {
+        "last": "",
+        "first": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          0
+        ]
+      },
+      {
+        "last": "",
+        "first": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          0
+        ]
+      },
+      {
+        "last": "",
+        "first": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          0
+        ]
+      },
+      {
+        "last": "",
+        "first": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          0
+        ]
+      }
     ]
   },
   "subjects": {
@@ -164,6 +203,9 @@
       "Gen bio",
       "Chemistry",
       "Pe"
+    ],
+    "Cartesian": [
+      "math"
     ]
   },
   "studentCards": [
@@ -181,6 +223,13 @@
           "q2": "80",
           "q3": "85",
           "q4": "90"
+        },
+        {
+          "subject": "English",
+          "q1": "99",
+          "q2": "99",
+          "q3": "99",
+          "q4": "99"
         }
       ],
       "type": "card"
