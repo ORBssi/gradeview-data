@@ -173,5 +173,81 @@
       "Chemistry",
       "Pe"
     ]
-  }
+  },
+  "studentCards": [
+    {
+      "firstName": "Cid",
+      "middleName": "",
+      "lastName": "Kagenou",
+      "username": "1",
+      "password": "1",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "philosophy",
+          "q1": "55",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "science",
+          "q1": "88",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "FPL",
+          "q1": "99",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "calculus",
+          "q1": "55",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "eating",
+          "q1": "99",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "Gen math",
+          "q1": "99",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "Gen bio",
+          "q1": "0",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "Chemistry",
+          "q1": "87",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "Pe",
+          "q1": "99",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        }
+      ],
+      "type": "card"
+    }
+  ]
 }
