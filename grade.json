@@ -1,12 +1,11 @@
 {
   "sections": [
     "default",
-    "mm",
-    "Cartesian"
+    "descartes"
   ],
   "students": {
     "default": [],
-    "mm": [
+    "descartes": [
       {
         "last": "Kagenou",
         "first": "Cid",
@@ -23,7 +22,8 @@
           0,
           87,
           99
-        ]
+        ],
+        "average": 85.13
       },
       {
         "last": "Dino",
@@ -41,7 +41,8 @@
           99,
           87,
           99
-        ]
+        ],
+        "average": 90.88
       },
       {
         "last": "Miya",
@@ -59,7 +60,8 @@
           99,
           87,
           98
-        ]
+        ],
+        "average": 82.78
       },
       {
         "last": "Almond",
@@ -77,7 +79,8 @@
           99,
           0,
           98
-        ]
+        ],
+        "average": 82.25
       },
       {
         "last": "Cheese",
@@ -95,7 +98,8 @@
           0,
           65,
           98
-        ]
+        ],
+        "average": 77.88
       },
       {
         "last": "Parker",
@@ -113,7 +117,8 @@
           99,
           99,
           99
-        ]
+        ],
+        "average": 95.33
       },
       {
         "last": "Monkey",
@@ -131,7 +136,8 @@
           0,
           0,
           88
-        ]
+        ],
+        "average": 63
       },
       {
         "last": "Kagenou",
@@ -149,51 +155,14 @@
           30,
           30,
           100
-        ]
-      }
-    ],
-    "Cartesian": [
-      {
-        "last": "",
-        "first": "",
-        "username": "",
-        "password": "",
-        "grades": [
-          0
-        ]
-      },
-      {
-        "last": "",
-        "first": "",
-        "username": "",
-        "password": "",
-        "grades": [
-          0
-        ]
-      },
-      {
-        "last": "",
-        "first": "",
-        "username": "",
-        "password": "",
-        "grades": [
-          0
-        ]
-      },
-      {
-        "last": "",
-        "first": "",
-        "username": "",
-        "password": "",
-        "grades": [
-          0
-        ]
+        ],
+        "average": 54.44
       }
     ]
   },
   "subjects": {
     "default": [],
-    "mm": [
+    "descartes": [
       "philosophy",
       "science",
       "FPL",
@@ -203,36 +172,6 @@
       "Gen bio",
       "Chemistry",
       "Pe"
-    ],
-    "Cartesian": [
-      "math"
     ]
-  },
-  "studentCards": [
-    {
-      "firstName": "Lean",
-      "middleName": "O.",
-      "lastName": "Olarte",
-      "username": "len123",
-      "password": "1234",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "math",
-          "q1": "75",
-          "q2": "80",
-          "q3": "85",
-          "q4": "99"
-        },
-        {
-          "subject": "English",
-          "q1": "99",
-          "q2": "99",
-          "q3": "99",
-          "q4": "99"
-        }
-      ],
-      "type": "card"
-    }
-  ]
+  }
 }
