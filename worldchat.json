@@ -34,5 +34,11 @@
     "avatar": "admin-avatar.png",
     "content": "Okay guys pede na kayo umalis goodbye",
     "timestamp": "2025-07-19T09:36:06.351Z"
+  },
+  {
+    "sender": "TestingPro",
+    "avatar": "default-avatar.png",
+    "content": "hello admin",
+    "timestamp": "2025-09-20T11:01:48.936Z"
   }
 ]
