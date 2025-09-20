@@ -1,10 +1,30 @@
 {
   "sections": [
     "default",
-    "descartes"
+    "descartes",
+    "lll"
   ],
   "students": {
-    "default": [],
+    "default": [
+      {
+        "last": "",
+        "first": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          0
+        ]
+      },
+      {
+        "last": "",
+        "first": "",
+        "username": "",
+        "password": "",
+        "grades": [
+          0
+        ]
+      }
+    ],
     "descartes": [
       {
         "last": "Kagenou",
@@ -13,17 +33,17 @@
         "username": "1",
         "password": "1",
         "grades": [
-          55,
-          88,
+          73,
+          92,
           99,
-          55,
+          73,
           99,
           99,
-          0,
-          87,
+          60,
+          91,
           99
         ],
-        "average": 85.13
+        "average": 87.22
       },
       {
         "last": "Dino",
@@ -33,16 +53,16 @@
         "password": "2",
         "grades": [
           99,
-          88,
-          0,
-          66,
-          89,
+          92,
+          60,
+          78,
+          93,
           100,
           99,
-          87,
+          91,
           99
         ],
-        "average": 90.88
+        "average": 90.11
       },
       {
         "last": "Miya",
@@ -51,17 +71,17 @@
         "username": "3",
         "password": "3",
         "grades": [
-          44,
+          71,
           99,
-          66,
-          66,
+          78,
+          78,
           98,
-          88,
+          92,
           99,
-          87,
+          91,
           98
         ],
-        "average": 82.78
+        "average": 89.33
       },
       {
         "last": "Almond",
@@ -70,17 +90,17 @@
         "username": "4",
         "password": "4",
         "grades": [
-          33,
-          88,
-          88,
-          77,
+          68,
+          92,
+          92,
+          85,
           98,
-          77,
+          85,
           99,
-          0,
+          60,
           98
         ],
-        "average": 82.25
+        "average": 86.33
       },
       {
         "last": "Cheese",
@@ -89,17 +109,17 @@
         "username": "5",
         "password": "5",
         "grades": [
-          44,
-          88,
-          66,
-          88,
-          97,
-          77,
-          0,
-          65,
+          71,
+          92,
+          78,
+          92,
+          98,
+          85,
+          60,
+          78,
           98
         ],
-        "average": 77.88
+        "average": 83.56
       },
       {
         "last": "Parker",
@@ -110,7 +130,7 @@
         "grades": [
           99,
           100,
-          66,
+          78,
           99,
           98,
           99,
@@ -118,7 +138,7 @@
           99,
           99
         ],
-        "average": 95.33
+        "average": 96.67
       },
       {
         "last": "Monkey",
@@ -127,17 +147,17 @@
         "username": "7",
         "password": "7",
         "grades": [
-          0,
-          0,
-          0,
-          0,
+          60,
+          60,
+          60,
+          60,
           100,
-          1,
-          0,
-          0,
-          88
+          60,
+          60,
+          60,
+          92
         ],
-        "average": 63
+        "average": 68
       },
       {
         "last": "Kagenou",
@@ -146,22 +166,170 @@
         "username": "8",
         "password": "8",
         "grades": [
-          80,
-          60,
-          30,
-          40,
-          80,
-          40,
-          30,
-          30,
+          87,
+          75,
+          67,
+          70,
+          87,
+          70,
+          67,
+          67,
           100
         ],
-        "average": 54.44
+        "average": 76.67
+      }
+    ],
+    "lll": [
+      {
+        "first": "Cid",
+        "middle": "",
+        "last": "Kagenou",
+        "username": "1",
+        "password": "1",
+        "grades": [
+          73,
+          92,
+          99,
+          73,
+          99,
+          99,
+          60,
+          91,
+          99
+        ]
+      },
+      {
+        "first": "Rex",
+        "middle": "T.",
+        "last": "Dino",
+        "username": "2",
+        "password": "2",
+        "grades": [
+          99,
+          92,
+          60,
+          78,
+          93,
+          100,
+          99,
+          91,
+          99
+        ]
+      },
+      {
+        "first": "Moon",
+        "middle": "M.",
+        "last": "Miya",
+        "username": "3",
+        "password": "3",
+        "grades": [
+          71,
+          99,
+          78,
+          78,
+          98,
+          92,
+          99,
+          91,
+          98
+        ]
+      },
+      {
+        "first": "Choco",
+        "middle": "L.",
+        "last": "Almond",
+        "username": "4",
+        "password": "4",
+        "grades": [
+          68,
+          92,
+          92,
+          85,
+          98,
+          85,
+          99,
+          60,
+          98
+        ]
+      },
+      {
+        "first": "Ham",
+        "middle": "N.",
+        "last": "Cheese",
+        "username": "5",
+        "password": "5",
+        "grades": [
+          71,
+          92,
+          78,
+          92,
+          98,
+          85,
+          60,
+          78,
+          98
+        ]
+      },
+      {
+        "first": "Peter",
+        "middle": "",
+        "last": "Parker",
+        "username": "6",
+        "password": "6",
+        "grades": [
+          99,
+          100,
+          78,
+          99,
+          98,
+          99,
+          99,
+          99,
+          99
+        ]
+      },
+      {
+        "first": "Luffy",
+        "middle": "D.",
+        "last": "Monkey",
+        "username": "7",
+        "password": "7",
+        "grades": [
+          60,
+          60,
+          60,
+          60,
+          100,
+          60,
+          60,
+          60,
+          92
+        ]
+      },
+      {
+        "first": "Claire",
+        "middle": "",
+        "last": "Kagenou",
+        "username": "8",
+        "password": "8",
+        "grades": [
+          87,
+          75,
+          67,
+          70,
+          87,
+          70,
+          67,
+          67,
+          100
+        ]
       }
     ]
   },
   "subjects": {
-    "default": [],
+    "default": [
+      "gg"
+    ],
     "descartes": [
       "philosophy",
       "science",
@@ -172,82 +340,17 @@
       "Gen bio",
       "Chemistry",
       "Pe"
+    ],
+    "lll": [
+      "philosophy",
+      "science",
+      "FPL",
+      "calculus",
+      "eating",
+      "Gen math",
+      "Gen bio",
+      "Chemistry",
+      "Pe"
     ]
-  },
-  "studentCards": [
-    {
-      "firstName": "Cid",
-      "middleName": "",
-      "lastName": "Kagenou",
-      "username": "1",
-      "password": "1",
-      "year": "N/A",
-      "subjects": [
-        {
-          "subject": "philosophy",
-          "q1": "55",
-          "q2": "",
-          "q3": "",
-          "q4": ""
-        },
-        {
-          "subject": "science",
-          "q1": "88",
-          "q2": "",
-          "q3": "",
-          "q4": ""
-        },
-        {
-          "subject": "FPL",
-          "q1": "99",
-          "q2": "",
-          "q3": "",
-          "q4": ""
-        },
-        {
-          "subject": "calculus",
-          "q1": "55",
-          "q2": "",
-          "q3": "",
-          "q4": ""
-        },
-        {
-          "subject": "eating",
-          "q1": "99",
-          "q2": "",
-          "q3": "",
-          "q4": ""
-        },
-        {
-          "subject": "Gen math",
-          "q1": "99",
-          "q2": "",
-          "q3": "",
-          "q4": ""
-        },
-        {
-          "subject": "Gen bio",
-          "q1": "0",
-          "q2": "",
-          "q3": "",
-          "q4": ""
-        },
-        {
-          "subject": "Chemistry",
-          "q1": "87",
-          "q2": "",
-          "q3": "",
-          "q4": ""
-        },
-        {
-          "subject": "Pe",
-          "q1": "99",
-          "q2": "",
-          "q3": "",
-          "q4": ""
-        }
-      ],
-      "type": "card"
-    }
-  ]
+  }
 }
