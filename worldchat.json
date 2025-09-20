@@ -60,5 +60,12 @@
     "avatar": "default-avatar.png",
     "content": "new",
     "timestamp": "2025-09-20T11:40:43.015Z"
+  },
+  {
+    "sender": "Admin",
+    "to": "TestingPro",
+    "avatar": "admin-avatar.png",
+    "content": "hallo",
+    "timestamp": "2025-09-20T11:41:20.998Z"
   }
 ]
