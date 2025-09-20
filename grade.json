@@ -173,5 +173,99 @@
       "Chemistry",
       "Pe"
     ]
-  }
+  },
+  "studentCards": [
+    {
+      "firstName": "lll",
+      "middleName": "l",
+      "lastName": "lll",
+      "username": "lll",
+      "password": "lll",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "lll",
+          "q1": 99,
+          "q2": 99,
+          "q3": 99,
+          "q4": 99
+        }
+      ],
+      "type": "card"
+    },
+    {
+      "firstName": "Luffy",
+      "middleName": "D.",
+      "lastName": "Monkey",
+      "username": "7",
+      "password": "7",
+      "year": "2025-2026",
+      "subjects": [
+        {
+          "subject": "philosophy",
+          "q1": "0",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "science",
+          "q1": "0",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "FPL",
+          "q1": "0",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "calculus",
+          "q1": "0",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "eating",
+          "q1": "100",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "Gen math",
+          "q1": "1",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "Gen bio",
+          "q1": "0",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "Chemistry",
+          "q1": "0",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        },
+        {
+          "subject": "Pe",
+          "q1": "88",
+          "q2": "",
+          "q3": "",
+          "q4": ""
+        }
+      ],
+      "type": "card"
+    }
+  ]
 }
