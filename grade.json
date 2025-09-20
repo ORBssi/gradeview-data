@@ -1,1 +1,78 @@
-
+{
+  "studentCards": [
+    {
+      "firstName": "Luffy",
+      "middleName": "D.",
+      "lastName": "Monkey",
+      "username": "7",
+      "password": "7",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "philosophy",
+          "q1": 60,
+          "q2": null,
+          "q3": null,
+          "q4": null
+        },
+        {
+          "subject": "science",
+          "q1": 60,
+          "q2": null,
+          "q3": null,
+          "q4": null
+        },
+        {
+          "subject": "FPL",
+          "q1": 60,
+          "q2": null,
+          "q3": null,
+          "q4": null
+        },
+        {
+          "subject": "calculus",
+          "q1": 60,
+          "q2": null,
+          "q3": null,
+          "q4": null
+        },
+        {
+          "subject": "eating",
+          "q1": 100,
+          "q2": null,
+          "q3": null,
+          "q4": null
+        },
+        {
+          "subject": "Gen math",
+          "q1": 60,
+          "q2": null,
+          "q3": null,
+          "q4": null
+        },
+        {
+          "subject": "Gen bio",
+          "q1": 60,
+          "q2": null,
+          "q3": null,
+          "q4": null
+        },
+        {
+          "subject": "Chemistry",
+          "q1": 60,
+          "q2": null,
+          "q3": null,
+          "q4": null
+        },
+        {
+          "subject": "Pe",
+          "q1": 92,
+          "q2": null,
+          "q3": null,
+          "q4": null
+        }
+      ],
+      "type": "card"
+    }
+  ]
+}
