@@ -186,65 +186,65 @@
         {
           "subject": "philosophy",
           "q1": 87,
-          "q2": null,
-          "q3": null,
-          "q4": null
+          "q2": 71,
+          "q3": 60,
+          "q4": 99
         },
         {
           "subject": "science",
           "q1": 75,
-          "q2": null,
-          "q3": null,
-          "q4": null
+          "q2": 99,
+          "q3": 60,
+          "q4": 92
         },
         {
           "subject": "FPL",
           "q1": 67,
-          "q2": null,
-          "q3": null,
-          "q4": null
+          "q2": 78,
+          "q3": 60,
+          "q4": 92
         },
         {
           "subject": "calculus",
           "q1": 70,
-          "q2": null,
-          "q3": null,
-          "q4": null
+          "q2": 78,
+          "q3": 60,
+          "q4": 92
         },
         {
           "subject": "eating",
           "q1": 87,
-          "q2": null,
-          "q3": null,
-          "q4": null
+          "q2": 98,
+          "q3": 100,
+          "q4": 93
         },
         {
           "subject": "Gen math",
           "q1": 70,
-          "q2": null,
-          "q3": null,
-          "q4": null
+          "q2": 92,
+          "q3": 60,
+          "q4": 100
         },
         {
           "subject": "Gen bio",
           "q1": 67,
-          "q2": null,
-          "q3": null,
-          "q4": null
+          "q2": 99,
+          "q3": 60,
+          "q4": 99
         },
         {
           "subject": "Chemistry",
           "q1": 67,
-          "q2": null,
-          "q3": null,
-          "q4": null
+          "q2": 91,
+          "q3": 60,
+          "q4": 91
         },
         {
           "subject": "Pe",
           "q1": 100,
-          "q2": null,
-          "q3": null,
-          "q4": null
+          "q2": 98,
+          "q3": 92,
+          "q4": 99
         }
       ],
       "type": "card"
