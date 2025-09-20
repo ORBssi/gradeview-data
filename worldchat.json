@@ -47,5 +47,12 @@
     "avatar": "admin-avatar.png",
     "content": "hellow",
     "timestamp": "2025-09-20T11:18:41.776Z"
+  },
+  {
+    "sender": "Admin",
+    "to": "TestingPro",
+    "avatar": "admin-avatar.png",
+    "content": "hellow as well",
+    "timestamp": "2025-09-20T11:19:13.278Z"
   }
 ]
