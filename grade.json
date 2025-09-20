@@ -1,18 +1,4 @@
 
-  "subjects": {
-    "default": [],
-    "descartes": [
-      "philosophy",
-      "science",
-      "FPL",
-      "calculus",
-      "eating",
-      "Gen math",
-      "Gen bio",
-      "Chemistry",
-      "Pe"
-    ]
-  },
   "studentCards": [
     {
       "firstName": "lll",
