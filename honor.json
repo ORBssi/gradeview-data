@@ -1,19 +1,19 @@
 {
-  "minGrade": 75,
+  "minGrade": 88,
   "highest": {
-    "min": 75,
+    "min": 98,
     "max": 100,
     "message": "With Highest Honors"
   },
   "high": {
-    "min": 60,
-    "max": 76,
+    "min": 95,
+    "max": 97.99,
     "message": "With High Honors"
   },
   "honor": {
-    "min": 20,
-    "max": 50,
-    "message": "50"
+    "min": 88,
+    "max": 94.99,
+    "message": "With Honors"
   },
   "achiever": {
     "min": 88,
