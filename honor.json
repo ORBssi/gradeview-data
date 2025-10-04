@@ -1,1 +1,26 @@
-
+{
+  "minGrade": 88,
+  "highest": {
+    "min": 98,
+    "max": 100,
+    "message": "With Highest Honors"
+  },
+  "high": {
+    "min": 95,
+    "max": 97.99,
+    "message": "With High Honors"
+  },
+  "honor": {
+    "min": 88,
+    "max": 94.99,
+    "message": "With Honors"
+  },
+  "achiever": {
+    "min": 88,
+    "minSubjectGrade": 85,
+    "message": "Achiever"
+  },
+  "failMessage": "Failed – Your Almost There",
+  "passMessage": "Passed – Keep going",
+  "failingAverage": 74.99
+}
