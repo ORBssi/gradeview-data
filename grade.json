@@ -152,8 +152,8 @@
       "firstName": "Cid",
       "middleName": "",
       "lastName": "Kagenou",
-      "username": "Kagenou123@gmail.com",
-      "password": "12345678",
+      "username": "cid123@gmail.com",
+      "password": "123456789",
       "year": "N/A",
       "subjects": [
         {
@@ -174,14 +174,14 @@
           "subject": "FPL",
           "q1": 99,
           "q2": 99,
-          "q3": 89,
+          "q3": 94,
           "q4": 95
         },
         {
           "subject": "calculus",
-          "q1": 91,
-          "q2": 91,
-          "q3": 91,
+          "q1": 94,
+          "q2": 97,
+          "q3": 93,
           "q4": 91
         },
         {
