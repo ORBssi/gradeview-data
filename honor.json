@@ -11,12 +11,12 @@
     "message": "With High Honors"
   },
   "honor": {
-    "min": 88,
+    "min": 90,
     "max": 94.99,
     "message": "With Honors"
   },
   "achiever": {
-    "min": 88,
+    "min": 89,
     "minSubjectGrade": 85,
     "message": "Achiever"
   },
