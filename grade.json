@@ -73,6 +73,80 @@
         }
       ],
       "type": "card"
+    },
+    {
+      "firstName": "Cid",
+      "middleName": "",
+      "lastName": "Kagenou",
+      "username": "Kagenou@gmail.com",
+      "password": "12345678",
+      "year": "N/A",
+      "subjects": [
+        {
+          "subject": "philosophy",
+          "q1": 98,
+          "q2": 98,
+          "q3": 99,
+          "q4": 91
+        },
+        {
+          "subject": "science",
+          "q1": 92,
+          "q2": 92,
+          "q3": 99,
+          "q4": 95
+        },
+        {
+          "subject": "FPL",
+          "q1": 99,
+          "q2": 99,
+          "q3": 89,
+          "q4": 95
+        },
+        {
+          "subject": "calculus",
+          "q1": 85,
+          "q2": 86,
+          "q3": 87,
+          "q4": 91
+        },
+        {
+          "subject": "eating",
+          "q1": 99,
+          "q2": 99,
+          "q3": 98,
+          "q4": 93
+        },
+        {
+          "subject": "Gen math",
+          "q1": 99,
+          "q2": 99,
+          "q3": 92,
+          "q4": 96
+        },
+        {
+          "subject": "Gen bio",
+          "q1": 94,
+          "q2": 93,
+          "q3": 99,
+          "q4": 93
+        },
+        {
+          "subject": "Chemistry",
+          "q1": 91,
+          "q2": 91,
+          "q3": 91,
+          "q4": 96
+        },
+        {
+          "subject": "Pe",
+          "q1": 99,
+          "q2": 99,
+          "q3": 98,
+          "q4": 98
+        }
+      ],
+      "type": "card"
     }
   ]
 }
