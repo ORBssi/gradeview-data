@@ -226,16 +226,16 @@
       "firstName": "Cid",
       "middleName": "",
       "lastName": "Kagenou",
-      "username": "shadow@gmail.com",
+      "username": "shadowi@gmail.com",
       "password": "1234567",
-      "year": "2025 - 2026",
+      "year": "2025-2026",
       "subjects": [
         {
           "subject": "philosophy",
           "q1": 98,
           "q2": 98,
           "q3": 99,
-          "q4": 91
+          "q4": 96
         },
         {
           "subject": "science",
@@ -256,7 +256,7 @@
           "q1": 94,
           "q2": 97,
           "q3": 93,
-          "q4": 91
+          "q4": 97
         },
         {
           "subject": "eating",
@@ -267,8 +267,8 @@
         },
         {
           "subject": "Gen math",
-          "q1": 99,
-          "q2": 99,
+          "q1": 95,
+          "q2": 95,
           "q3": 92,
           "q4": 96
         },
@@ -283,7 +283,7 @@
           "subject": "Chemistry",
           "q1": 91,
           "q2": 91,
-          "q3": 91,
+          "q3": 96,
           "q4": 96
         },
         {
